@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Disciplines I find interesting: statistical modeling of human decision making, machine learning, AI, scientific computing in mathematical modeling, fluid dynamics, and physics
+  
+- Some fun facts about me: I’m a devoted husband and father, former math teacher, hobby artist, and avid fan of geek pop culture 😀
+
 <!--
 **mmagno/mmagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
